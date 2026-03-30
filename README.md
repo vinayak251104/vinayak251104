@@ -81,10 +81,6 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
 </a>
 
-<a href="https://www.verilog.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Verilog_logo.png" width="40" height="40"/>
-</a>
-
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </a>
