@@ -4,7 +4,7 @@ Electrical Engineering Junior at Manipal Institute of Technology |
 Aspiring Machine Learning Engineer | Backend Enthusiast
 </h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=vinayak251104&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak251104" /> 
 </p>
 
@@ -27,29 +27,28 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 
 <a href="https://www.kaggle.com/vinayakray1" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
 </a>
 
 <a href="https://leetcode.com/u/vinayak251104/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/vinayakray2511" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
 </a>
 
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 
-<!-- Core Languages -->
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </a>
@@ -62,7 +61,6 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Databases -->
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
@@ -71,7 +69,6 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<!-- Data & ML -->
 <a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </a>
@@ -80,7 +77,6 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
 </a>
 
-<!-- EEE & Core Tools -->
 <a href="https://www.mathworks.com/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
 </a>
@@ -89,7 +85,6 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Verilog_logo.png" width="40" height="40"/>
 </a>
 
-<!-- Dev Tools -->
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </a>
@@ -102,7 +97,6 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </a>
 
-<!-- Mongo Ecosystem -->
 <a href="https://www.mongodb.com/cloud/atlas" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </a>
@@ -115,28 +109,14 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 
 ---
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak251104&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vinayak251104&show_icons=true&locale=en" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak251104&show_icons=true&locale=en" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak251104&show_icons=true&locale=en&layout=compact" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak251104" />
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=vinayak251104" />
 </p>
-
----
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak251104&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak251104&show_icons=true&locale=en" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak251104" />
-</p>>
