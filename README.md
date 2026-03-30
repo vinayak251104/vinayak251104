@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Vinayak Ray</h1>
+<h1 align="center">Hi 👋, I'm Vinayak Ray</h1>
 <h3 align="center">
 Electrical Engineering Junior at Manipal Institute of Technology | 
 Aspiring Machine Learning Engineer | Backend Enthusiast
@@ -49,6 +49,7 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
+<!-- Core Languages -->
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </a>
@@ -61,6 +62,11 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+
+<!-- Databases -->
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
@@ -69,6 +75,7 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </a>
 
+<!-- Data & ML -->
 <a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </a>
@@ -77,10 +84,20 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
 </a>
 
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</a>
+
+<!-- EEE & Core -->
 <a href="https://www.mathworks.com/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
 </a>
 
+<a href="https://www.verilog.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Verilog_logo.png" width="40" height="40"/>
+</a>
+
+<!-- Dev Tools -->
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </a>
@@ -93,6 +110,7 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </a>
 
+<!-- Mongo Ecosystem -->
 <a href="https://www.mongodb.com/cloud/atlas" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </a>
