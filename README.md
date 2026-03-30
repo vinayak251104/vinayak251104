@@ -29,6 +29,7 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://www.kaggle.com/vinayakray1" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
 </a>
@@ -40,6 +41,7 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <a href="https://www.geeksforgeeks.org/profile/vinayakray2511" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
 </a>
+
 </p>
 
 ---
@@ -47,6 +49,7 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
+<!-- Core Languages -->
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </a>
@@ -59,6 +62,7 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
+<!-- Databases -->
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
@@ -67,6 +71,7 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </a>
 
+<!-- Data & ML -->
 <a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </a>
@@ -75,6 +80,51 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
 </a>
 
+<!-- EEE & Core Tools -->
+<a href="https://www.mathworks.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+</a>
+
+<a href="https://www.verilog.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Verilog_logo.png" width="40" height="40"/>
+</a>
+
+<!-- Dev Tools -->
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</a>
+
+<!-- Mongo Ecosystem -->
+<a href="https://www.mongodb.com/cloud/atlas" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/products/compass" target="_blank">
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak251104&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak251104&show_icons=true&locale=en" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak251104" />
 </p>
 
 ---
