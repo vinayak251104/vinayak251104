@@ -5,7 +5,7 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 </h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=vinayakray&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakray" /> 
+  <img src="https://komarev.com/ghpvc/?username=vinayak251104&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak251104" /> 
 </p>
 
 - 🔭 I’m currently working on **a full-stack Movie Recommendation System** using **React, Vite, Express**
@@ -20,7 +20,7 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
   **real-world deployment of ML systems and scalable backend design**
 
 - 👨‍💻 All of my projects are available at  
-  👉 https://github.com/<your-username>?tab=repositories
+  👉 https://github.com/vinayak251104?tab=repositories
 
 - 📫 Reach me at  
   **vinayak.ray2511@gmail.com**
@@ -80,13 +80,13 @@ Aspiring Machine Learning Engineer | Backend Enthusiast
 ---
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=<your-username>&show_icons=true&locale=en&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak251104&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&locale=en" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak251104&show_icons=true&locale=en" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>" />
-</p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak251104" />
+</p>>
