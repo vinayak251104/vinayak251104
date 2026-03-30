@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinayak Ray</h1>
+<h1 align="center">Hi! I'm Vinayak</h1>
 <h3 align="center">
 Electrical Engineering Junior at Manipal Institute of Technology | 
 Aspiring Machine Learning Engineer | Backend Enthusiast
